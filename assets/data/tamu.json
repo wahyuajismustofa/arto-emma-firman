@@ -1,5 +1,5 @@
 {
-  "updated": "29/8/2025, 09.15.35",
+  "updated": "29/8/2025, 09.25.49",
   "tamu": [
     {
       "nama": "Ibu Wiwit",
@@ -77,6 +77,13 @@
       "pesan": "",
       "kehadiran": "Hadir",
       "acara": "Resepsi"
+    },
+    {
+      "nama": "Mas Heri",
+      "waktu": "",
+      "pesan": "",
+      "kehadiran": "Hadir",
+      "acara": "Tidak memilih acara"
     }
   ]
 }
