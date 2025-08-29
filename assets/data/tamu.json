@@ -1,5 +1,5 @@
 {
-  "updated": "29/8/2025, 09.14.20",
+  "updated": "29/8/2025, 09.15.29",
   "tamu": [
     {
       "nama": "Ibu Wiwit",
@@ -66,6 +66,13 @@
     },
     {
       "nama": "Bu Ani",
+      "waktu": "",
+      "pesan": "",
+      "kehadiran": "Hadir",
+      "acara": "Resepsi"
+    },
+    {
+      "nama": "Ci Elsa",
       "waktu": "",
       "pesan": "",
       "kehadiran": "Hadir",
