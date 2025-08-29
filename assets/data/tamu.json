@@ -1,5 +1,5 @@
 {
-  "updated": "29/8/2025, 15.41.36",
+  "updated": "29/8/2025, 18.18.18",
   "tamu": [
     {
       "nama": "Ibu Wiwit",
@@ -105,6 +105,13 @@
       "pesan": "",
       "kehadiran": "Hadir",
       "acara": "Resepsi"
+    },
+    {
+      "nama": "Mas Dimas",
+      "waktu": "",
+      "pesan": "",
+      "kehadiran": "Hadir",
+      "acara": "Akad Nikah"
     }
   ]
 }
