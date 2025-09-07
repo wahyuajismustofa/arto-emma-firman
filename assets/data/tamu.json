@@ -1,5 +1,5 @@
 {
-  "updated": "5/9/2025, 09.41.41",
+  "updated": "7/9/2025, 09.11.45",
   "tamu": [
     {
       "nama": "Ibu Wiwit",
@@ -140,6 +140,13 @@
       "pesan": "",
       "kehadiran": "Hadir",
       "acara": "Tidak memilih acara"
+    },
+    {
+      "nama": "Arto Printing",
+      "waktu": "2025-09-07T02:11:00.000Z",
+      "pesan": "Semoga menjadi keluarga sakinah mawadah warahmah Aamiin ",
+      "kehadiran": "",
+      "acara": ""
     }
   ]
 }
